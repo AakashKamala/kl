@@ -1,0 +1,15 @@
+.hm{
+  
+}
+
+.essentials{
+  float: right;
+  a{
+    color: white;
+    margin-left: 1rem;
+  }
+}
+
+li{
+  list-style: none;
+}

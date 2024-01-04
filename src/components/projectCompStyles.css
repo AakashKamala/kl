@@ -1,0 +1,27 @@
+.proj{
+  border-radius: 0.5rem;
+  background-color: #172554;
+  height: 250px;
+  width:300px;
+  margin: 2rem;
+  padding: 1rem;
+  opacity: 0.8;
+}
+.
+ .projectContainer{
+   margin: 2rem;
+
+ }
+
+h3{
+  text-decoration: none;
+  color:white;
+}
+
+a{
+  text-decoration:none;
+}
+
+p{
+  color: rgb(148 163 184);
+}
