@@ -37,6 +37,12 @@ function PersonalNotes() {
         <li>flex-direction:row/column</li>
         <li>flex-wrap:wrap/wrap-reverse</li>
       </ul>
+      <h3>Flex</h3>
+      <ul>
+        <li>display:flex</li>
+        <li>flex-direction:row/column</li>
+        <li>flex-wrap:wrap/wrap-reverse</li>
+      </ul>
     </div>
   )
 }
